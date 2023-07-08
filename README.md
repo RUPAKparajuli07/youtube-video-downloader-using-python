@@ -169,6 +169,16 @@ root.mainloop()
 - The `change_background` function is called to start changing the background color of the application window.
 - The `mainloop` method is called on the `root` window to start the GUI event loop.
 
+- 
+  <h2 id="contributing">Contributing</h2>
+  <p>Contributions are welcome! If you find any issues or would like to suggest enhancements, please feel free to submit a pull request or open an issue.</p>
+
+  <h2 id="license">License</h2>
+  <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+</body>
+</html>
+
+
 ### Running the Program
 
 To run the program, execute the Python script containing the code. The GUI window will appear, allowing you to interact with the YouTube video downloader. You can enter a YouTube video URL, get its details, download the video, and clear the output labels as needed. The background color of the window will change automatically every 5 seconds.
