@@ -99,3 +99,5 @@ filepath_label.pack(pady=5)
 change_background() # start changing background color
 
 root.mainloop()
+
+#install ruquirementa and run
